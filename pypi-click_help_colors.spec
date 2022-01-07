@@ -13,12 +13,12 @@ License  : MIT
 Requires: pypi-click_help_colors-python = %{version}-%{release}
 Requires: pypi-click_help_colors-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pypi(click)
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 =================
