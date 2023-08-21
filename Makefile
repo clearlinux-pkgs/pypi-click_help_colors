@@ -1,5 +1,5 @@
 PKG_NAME := pypi-click_help_colors
-URL = https://files.pythonhosted.org/packages/6c/c1/abc07420cfdc046c1005e16bc8090bc1f226d631b2bd172e5a8f5524c127/click-help-colors-0.9.1.tar.gz
+URL = https://files.pythonhosted.org/packages/a8/5a/e38178c3fd7bb0a0f143ed5291f7f80d391431f262db5a5e16e7d8f34046/click-help-colors-0.9.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
