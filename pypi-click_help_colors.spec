@@ -7,7 +7,7 @@
 #
 Name     : pypi-click_help_colors
 Version  : 0.9.4
-Release  : 20
+Release  : 21
 URL      : https://files.pythonhosted.org/packages/6f/50/76f51d9c7fcd72a12da466801f7c1fa3884424c947787333c74327b4fcf3/click-help-colors-0.9.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6f/50/76f51d9c7fcd72a12da466801f7c1fa3884424c947787333c74327b4fcf3/click-help-colors-0.9.4.tar.gz
 Summary  : Colorization of help messages in Click
